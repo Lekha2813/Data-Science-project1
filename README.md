@@ -14,6 +14,7 @@ The variables, or features, are the following:
 
 **r_humidity**, in percentage. (Relative humidity)
 
-**energy_production**, in MW, net hourly electrical energy output.
-![Screenshot (241)](https://github.com/Lekha2813/Data-Science-project1/assets/143613094/d688cc5b-9986-4571-9a0e-ab55aea262f1)
+**energy_production**, in MW, net hourly electrical energy output.![Screenshot (242)](https://github.com/Lekha2813/Data-Science-project1/assets/143613094/64359471-7d20-4a69-9132-a2a6e5425495)
+![Screenshot (241)](https://github.com/Lekha2813/Data-Science-project1/assets/143613094/209a673f-7387-413f-b21e-32776e1fc9a2)
+
 ![Screenshot (240)](https://github.com/Lekha2813/Data-Science-project1/assets/143613094/86053bc4-ed20-4b40-ad76-138acb374b37)
